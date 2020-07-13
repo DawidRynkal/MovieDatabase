@@ -1,3 +1,16 @@
+# Movie database app
+Simple react movie app, created with "useState" hook. Aplication uses omdbapi.com. Aplication was created to grow up skills work with api and Axios. 
+
+## First view:
+![Screenshot_1](https://user-images.githubusercontent.com/50556211/87340078-e4312f80-c547-11ea-8b27-9d936060873b.png)
+
+## Result:
+![Screenshot_2](https://user-images.githubusercontent.com/50556211/87340085-e72c2000-c547-11ea-8c05-d62d923bfa97.png)
+
+## After click on movie, we can see details: 
+![Screenshot_3](https://user-images.githubusercontent.com/50556211/87340095-e98e7a00-c547-11ea-92df-fb98f520a35f.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
